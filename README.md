@@ -32,6 +32,5 @@
 #### Experiências
 
 📞 &nbsp;**A.Telecom:** Atuei principalmente no desenvolvimento de relatórios utilizando SQL, voltados para integração e visualização.\
-✍ &nbsp;**Conceito Embalagens:** Atuei desenvolvendo e implementando uma base de dados para gerenciar informações sobre embalagens.\
 🛠 &nbsp;**Mib Hub:** Contribuí no desenvolvimento de um projeto em Lua focado na detecção de exploits em jogos desenvolvidos na engine Unity.\
 &nbsp;
