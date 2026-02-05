@@ -9,7 +9,7 @@
 ### Sobre Mim
 
 📍 &nbsp;**Localização:** São Paulo, SP - Vila Prudente\
-🎸 &nbsp;**Hobbies**: Música, Violão, Futebol\
+🎸 &nbsp;**Hobbies**: Música, bass
 &nbsp;
 
 #### Formação
